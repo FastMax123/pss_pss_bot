@@ -1,7 +1,0 @@
-*.log
-*.tmp
-.DS_Store
-__pycache__/
-AppData/
-.gitconfig
-*.ini
