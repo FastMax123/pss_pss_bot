@@ -1,0 +1,6 @@
+*.log
+*.ini
+*.dat
+.DS_Store
+__pycache__/
+*.xlsx
